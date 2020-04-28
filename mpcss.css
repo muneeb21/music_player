@@ -450,16 +450,11 @@ display: flex;flex-flow:row;
 	}
 }
 @media screen and (max-width: 1200px){
-.part2{
-	/*height: 120%;*/
 
-}
 .type2{
 	height: 6rem;width:6rem;margin-top: 1rem;margin-bottom: 1rem;
 }
-.part4{
-	/*height:70vh;*/
-}
+
 #hide-anchortag{
 		display: none;
 	}
