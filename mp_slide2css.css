@@ -59,15 +59,18 @@ display:flex;align-items: center;
 	/*display:flex;justify-content: center;
 	align-items: center;
 	padding-right:.5rem;
-*/	height:.4rem:width: .4rem;color:#25c7a3;
+*/	height:.3rem:width: .3rem;color:#25c7a3;
     text-decoration: none;
 
+}
+.search-button  i{
+	font-size: .75em;margin-right: .1rem;
 }
 
 .search-txt{
 	border:none;
 	background: none;color:white;
-   outline: none;
+   outline: none; font-size: .75rem;margin-left: .2rem;
   /*padding-left: .6rem;*/
   /*display:flex;justify-content: space-between;
 	align-items: center;*/
