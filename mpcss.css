@@ -495,8 +495,14 @@ display: flex;flex-flow:row;
   .body-header-right{
  	width:60%;height: 90%;margin-left: 0px;
  }
+ .body-header-right{
+	margin-right: 1.5rem;
+}
  .search-bar{
-	width:78%;height: 17%; justify-content: space-around;
+	width:80%;height: 17%; justify-content: space-around;
+}
+.search-txt{
+	font-size: .7rem;
 }
 .profile-icon{
 	display: none;

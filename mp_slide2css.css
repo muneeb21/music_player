@@ -424,7 +424,14 @@ display: flex;flex-flow:row;
  	width:60%;height: 90%;margin-left: 0px;
  }
  .search-bar{
-	width:73%;height: 17%; justify-content: space-around;
+	width:78%;height: 17%; justify-content: space-around;
+
+}
+.search-txt{
+	font-size: .7rem;
+}
+.body-header-right{
+	margin-right: 1.5rem;
 }
 .profile-icon{
 	display: none;
@@ -433,19 +440,19 @@ display: flex;flex-flow:row;
  	font-size: 1.4rem;
  }
  .part1{
- 	height:50vh;
+ 	height:50vh;width:105%;
  }
  .part1-unit{
  	height:80%;
  }
  .part1-left{
-     width:80%;height:70%;}
+     width:95%;height:70%;}
 
  .ed-sheeran{
- 	font-size: .8rem;width: 90%;
+ 	font-size: .8rem;width: 95%;
  }
  .followers{
- 	font-size: .5rem;width:75%;
+ 	font-size: .4rem;width:80%;
  }
 .about-artist{
 	display: none;
@@ -483,7 +490,7 @@ display: flex;flex-flow:row;
 	font-size:.2rem;	
 }
 .player-title{
-   font-size:1.2rem;
+   font-size:1.2rem;display: none;
    
 }
 .search-button{
