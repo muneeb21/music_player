@@ -497,6 +497,8 @@ display: flex;flex-flow:row;
 	.type1{
 		height:70%;
 	}
+	
+
 #headings-modify{
 	text-align: center;
 	font-size: 1.6rem;
@@ -527,7 +529,7 @@ display: flex;flex-flow:row;
  	width:60%;height: 90%;margin-left: 0px;
  }
  .search-bar{
-	width:73%;height: 17%; justify-content: space-around;
+	width:65%;height: 17%; justify-content: space-around;
 }
 .profile-icon{
 	display: none;
@@ -550,6 +552,9 @@ display: flex;flex-flow:row;
  }
  .type2{
  	height: 4.5rem;width: 4.5rem;
+ }
+ .artist-name{
+ 	font-size: .6rem;
  }
  .part4{
  	height:90vh;margin-top: 2rem;margin-bottom: 2rem;
@@ -584,18 +589,18 @@ display: flex;flex-flow:row;
    
 }
 .search-button{
-	padding-right:.3rem;
+	padding-right:.3rem;font-size: .5rem;
 }
+#body-footer{
+ 	height: 8vh;
+ }
+ 
+ .bar-buttons div{
+   margin-top: 0rem;
+ }
+ .bar-buttons a i{
+ 	font-size: .4rem;
+ }
 
 }
 
-@media screen and (max-width: 300px){
-	.music-icon{
-	font-size: 100%;
-}
-
-.player-title{
-   /*font-size:.4em;margin-left:*/
-   display: none;
-}
-}
